@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋<br>
+I' m Daniele Morello 😊 <br> Welcome to my github account ❗❗❗</h1>
 
 <!--
 **DanieleMorello/DanieleMorello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">💻 Web-Development used technologies: 💻</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,php,vue,vite,laravel">
+  </a>
+</p>
