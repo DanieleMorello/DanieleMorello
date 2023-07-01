@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋<br>
-I' m Daniele Morello 😊 <br> Welcome to my github account ❗❗❗</h1>
+I' m Daniele Morello 😊 <br> Welcome to my Github Account ❗❗❗</h1>
 
 <!--
 **DanieleMorello/DanieleMorello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
